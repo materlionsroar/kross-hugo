@@ -1,7 +1,7 @@
 ---
 work_process:
   enable: true
-  title: Article
+  title: Articles
   item:
   - title: Deliver
     icon: images/icons/print.png
