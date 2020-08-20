@@ -2,7 +2,7 @@ baseURL = "https://lionsroar.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Lions Roar "
 [[menu.main]]
 URL = "about"
 name = "About"
