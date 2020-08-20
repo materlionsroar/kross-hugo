@@ -32,4 +32,8 @@ clients_logo_slider:
   enable: true
   title: My Clients
 title: articles.yml
+menu:
+  main:
+    name: Articles
+    weight: 4
 draft: true

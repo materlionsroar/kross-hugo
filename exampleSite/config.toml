@@ -4,10 +4,6 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Lions Roar "
 [[menu.main]]
-name = "Articles"
-url = "https://lionsroar.netlify.app/articles/"
-weight = 4
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
